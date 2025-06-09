@@ -4,7 +4,6 @@
 ---
 ## 👀 Intereses
 - Optimización de la cadena de suministro.
-- Logística sostenible y transporte multimodal.
 - Business Intelligence aplicada a operaciones.
 - Automatización de procesos con herramientas low-code.
 ---
