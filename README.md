@@ -22,7 +22,7 @@
 - URL: https://es.linkedin.com/in/adriansantos-logistica-transporte
 ---
 ## ⚡ Curiosidad:
-Ayudé a implementar un sistema de gestión de transporte que redujo los tiempos de espera un 30 % y generó un ahorro superior a 100.000 € al año 🚛📉
+Ayudé a implementar un sistema de gestión de transporte que redujo los tiempos de espera un 30 % y generó un ahorro superior a 100.000€ al año.
 
 <!---
 AdrianSantos14/AdrianSantos14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
